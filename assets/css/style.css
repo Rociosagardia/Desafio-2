@@ -1,0 +1,53 @@
+.fondo-header{
+    background-color:  #E6DFD9;
+    height: 140px;
+    
+}
+.texto-header1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+    color: #7A7067;
+}
+.texto-header2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: #729599;
+}
+.img-header{
+    width: 100px;
+    margin-top: -165px;
+    margin-left: 100px;
+
+}
+.img-1{
+    width: 200px;
+    height: 250px;
+    margin-top: 100px;
+    margin-right: 2000px;
+    margin-left: 200px;
+   
+}
+.texto-planta{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-top: -100px;
+    margin-left: 500px;
+
+}
+.estilo-footer{
+    background-color:  #E6DFD9;
+    height: 100px;
+    margin-top: 200px;
+}
+.texto-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    color: #7A7067;
+    padding: 50px;
+
+}
